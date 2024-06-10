@@ -1,0 +1,12 @@
+{
+  "name": "am_001-student-managment",
+  "version": "1.0.0",
+  "description": "student managment APP",
+  "main": "index.js",
+  "type" : "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
